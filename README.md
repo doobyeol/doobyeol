@@ -1,6 +1,6 @@
 # Hi, I'm Doobyeol 👋🏻
 
-## 📈 GiHub Stats
+## GiHub Stats
 
 <p align="center">
   <table>
@@ -16,12 +16,12 @@
 </p>
 
 
-## 📖 Blog
+## Blog
 
 [![Velog](https://img.shields.io/badge/Velog-11B48A.svg?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@doobyeol)
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,13 +32,13 @@
 ![OracleSQL](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-## ✏️ Coming soon
+## Coming soon
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 
 
-## 📫 Contact me
+## Contact me
 
 doobyeol@gmail.com
 
