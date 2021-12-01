@@ -43,4 +43,6 @@
 doobyeol@gmail.com
 
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoobyeol&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoobyeol%2Fhit-counter&count_bg=%23CACED5&title_bg=%2335343D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/doobyeol/doobyeol)
+
