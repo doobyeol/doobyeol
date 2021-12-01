@@ -44,5 +44,5 @@ doobyeol@gmail.com
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoobyeol%2Fhit-counter&count_bg=%23CACED5&title_bg=%2335343D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/doobyeol/doobyeol)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoobyeol%2Fhit-counter&count_bg=%23CACED5&title_bg=%2335343D&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://github.com/doobyeol/doobyeol)
 
