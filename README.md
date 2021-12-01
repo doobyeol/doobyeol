@@ -1,5 +1,3 @@
-# Hi, I'm Doobyeol 👋🏻
-
 ## GiHub Stats
 
 <p align="center">
